@@ -14,6 +14,6 @@ Don't construct a graph with more than 20000 tweets at one time. This amount of 
 
 ### results
 
-![network graph](./results/network_communities.png)
+![network graph](./results/network_community.png)
 
 ![word PCs](./results/words_PCA.png)
