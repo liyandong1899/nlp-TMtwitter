@@ -14,6 +14,6 @@ Don't construct a graph with more than 20000 tweets at one time. This amount of 
 
 ### results
 
-\begin{center} <br>
-\includegraphics[width=8in]{\results\network_community.pdf} <br>
-\end{center}
+![network graph](./results/network_communities.png)
+
+![word PCs](./results/words_PCA.png)
