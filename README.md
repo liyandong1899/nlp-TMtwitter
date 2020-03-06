@@ -14,6 +14,8 @@ Don't construct a graph with more than 20000 tweets at one time. This amount of 
 
 ### results
 
-![network graph (isolated islands not shown)](./results/network_community.png)
+![network graph](./results/network_community.png)
+
+Isolated islands are not shown.
 
 ![word PCs](./results/words_PCA.png)
