@@ -2,6 +2,8 @@
 
 The data are the tweets about an American novelist. The data was collected immediately after her passing.
 
+The .txt file shows a sample of the collected tweets. The attribute 'entities' 'user_mentions' includes all the mentioned users in this tweet.
+
 ## Warning
 
 Don't construct a graph with more than 20000 tweets at one time. This amount of data may exceed the capability of the RAM.
